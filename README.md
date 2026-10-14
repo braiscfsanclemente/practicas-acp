@@ -107,6 +107,7 @@ Los pokémon solo pueden reproducirse entre sí si comparten al menos un grupo h
 3. Eclosionar huevos de forma iterativa hasta conseguir los 5 o 6 IVs perfectos.
 
 
+Añadir algo.
 
 
 
