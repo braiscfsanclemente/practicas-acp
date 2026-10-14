@@ -106,9 +106,6 @@ Los pokémon solo pueden reproducirse entre sí si comparten al menos un grupo h
 2. Equipar la **Piedra Eterna** (*Everstone*) para heredar con un $100\%$ de certeza la naturaleza deseada.
 3. Eclosionar huevos de forma iterativa hasta conseguir los 5 o 6 IVs perfectos.
 
-*(No es una secuencia ordenada como tal, pero se pide al menos una.)*
-
-Se observa que para lograr el resultado deseado, es necesario partir de unos padres con buena genética.
 
 
 
