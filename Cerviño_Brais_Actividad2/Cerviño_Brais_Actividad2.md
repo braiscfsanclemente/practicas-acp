@@ -114,12 +114,7 @@ Se observa que para lograr el resultado deseado, es necesario partir de unos pad
 
 
 
-
-
-Lineas para probar
-el
-commit
-
-
-
-
+## Recomendaciones de seguridad
+1. Mantener las claves y tokens de acceso (como el Personal Access Token de GitHub) en secreto y nunca subirlos al repositorio público.
+2. Configurar la autenticación de dos factores (2FA) en la cuenta de GitHub para proteger el acceso.
+3. Revisar el archivo `.gitignore` para no incluir archivos de configuración local ni credenciales sensibles.
