@@ -1,6 +1,8 @@
 # Manual
 
-El objetivo ...
+El objetivo ... 
+
+Esto es una prueba para el caso en que se realizen los cambios desde la web.
 
 ## 📌 Índice de contenidos
 
